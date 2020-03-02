@@ -16,7 +16,6 @@
 h1.build-caption.page-headline {
     max-width: 1200px;
     overflow: hidden;
-    white-space: nowrap;
     text-overflow: ellipsis;
 }
 *:before,
